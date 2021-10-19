@@ -1,0 +1,6 @@
+.cache
+.local
+.pytest_cache
+.idea
+.ash_history
+__pycache__
